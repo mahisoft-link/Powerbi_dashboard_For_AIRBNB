@@ -56,7 +56,7 @@ Short-term rental hosts and analysts need a quick way to see how listings are pr
 | `license` | License / registration number |
 | `City` | Chicago or New Orleans |
 
-> **Source:** [Add dataset source / link here, e.g. Inside Airbnb or Kaggle]
+
 > **Size:** about 11.16K listings in total (Chicago: 4,852, New Orleans: 6,307)
 
 ---
@@ -196,7 +196,7 @@ Average Number of Reviews = AVERAGE(Listings[number_of_reviews])
 
 1. Download or clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/<your-repo-name>.git
+   git clone https://github.com/mahisoft-link/Powerbi_dashboard_For_AIRBNB
    ```
 2. Install **Power BI Desktop** (free): https://powerbi.microsoft.com/desktop/
 3. Open `project_powerbi.pbix`.
